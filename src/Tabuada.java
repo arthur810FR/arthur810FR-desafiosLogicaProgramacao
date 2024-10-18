@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Tabuada {
     public static void main(String[] args) {
 
+        //Faça um programa que exiba a tabuada de um número fornecido pelo usuário, de 1 até 10:
         Scanner entrada = new Scanner(System.in);
 
         System.out.println("Digite qual tabuada quer:");

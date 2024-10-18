@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class NumeroFatorial {
     public static void main(String[] args) {
 
+        //Implemente um programa que receba um número e calcule o seu fatorial:
+
         Scanner entrada = new Scanner(System.in);
         int fatorial = 1;
 
