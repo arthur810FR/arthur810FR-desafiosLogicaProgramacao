@@ -63,3 +63,9 @@ desafiosLogicaProgramacao/
    - O usuário informa o valor original e a porcentagem de desconto. O programa retorna o valor final com o desconto aplicado.
 3. **Verificação de número palíndromo:**
    - O programa verifica se um número informado pelo usuário é um palíndromo (se lê da mesma forma de trás para frente).
+
+## 📞 Contato
+**Arthur Francisco Guedes Azevedo**
+
+- [LinkedIn](https://www.linkedin.com/in/arthur-azevedo-desenvolvedor/)
+- [Email](mailto:arthurfranciscoazevedo@gmail.com)
