@@ -36,3 +36,18 @@ desafiosLogicaProgramacao/
 │   ├── OrdenarList.java
 │   ├── Tabuada.java
 ├── desafiosLogicaProgramacao.iml
+```
+## 🛠️ Como Rodar o Projeto
+
+### Pré-requisitos
+- **Java** (JDK 8 ou superior)
+- **IDE de sua preferência** (IntelliJ IDEA, Eclipse, VSCode)
+
+### Instalação e Execução
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/seuusuario/desafiosLogicaProgramacao.git
+2. **Navegue até o diretório do projeto:**
+   ```bash
+   cd desafiosLogicaProgramacao
+3. **Abra o projeto na sua IDE e execute as classes individualmente para ver os resultados dos desafios.**
