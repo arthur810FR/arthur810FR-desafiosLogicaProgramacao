@@ -51,3 +51,15 @@ desafiosLogicaProgramacao/
    ```bash
    cd desafiosLogicaProgramacao
 3. **Abra o projeto na sua IDE e execute as classes individualmente para ver os resultados dos desafios.**
+
+## 💻 Tecnologias Utilizadas
+- **Java** - Linguagem de programação utilizada para desenvolver os desafios
+- **IDE** - Para facilitar o desenvolvimento e execução dos programas
+
+## 📚 Exemplos de Uso
+1. **Execução do desafio de Adivinhação:**
+   - O usuário deve adivinhar um número gerado aleatoriamente entre 1 e 100.
+2. **Cálculo de desconto:**
+   - O usuário informa o valor original e a porcentagem de desconto. O programa retorna o valor final com o desconto aplicado.
+3. **Verificação de número palíndromo:**
+   - O programa verifica se um número informado pelo usuário é um palíndromo (se lê da mesma forma de trás para frente).
